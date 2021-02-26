@@ -70,6 +70,38 @@
   background: #1ab6cf;
 }
 
+.btn.btn-dark {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.btn.btn-dark:hover {
+  background: #3f474e;
+}
+
+.btn.btn-success {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.btn.btn-success:hover {
+  background: #2dbc4e;
+}
+
+.btn.btn-danger {
+  background-color: #dc3545;
+  color: #333;
+}
+
+.btn.btn-danger:hover {
+  background: #e04b59;
+}
+
+.btn:hover {
+  background: #626d78;
+  color: #fff;
+}
+
 .dark-overlay {
   height: 100%;
   width: 100%;
